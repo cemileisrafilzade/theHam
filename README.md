@@ -1,0 +1,2 @@
+# theHam
+The WordPress Theme
